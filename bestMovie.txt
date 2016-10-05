@@ -5,9 +5,8 @@
 	<meta charset="utf-8">
 	<title>Forrest Gump</title>
 </head>
-<body style = "background-color:yellow;">
-	<h1 style ="color:purple;
-	font-family:verdana; font-size: 200%"> Forrest Gump </h1>
+<body>
+	<h1> Forrest Gump </h1>
 	<img src = "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg" width="300" height ="400" >
 	<br>
 	<a href= "http://www.imdb.com/title/tt0109830/">Movie Information</a>
